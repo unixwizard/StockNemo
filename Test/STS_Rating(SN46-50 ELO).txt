@@ -1,0 +1,50 @@
+STS Rating v14.0
+Number of cores: 32
+
+Engine: StockNemo
+Hash: 32, Threads: 1, time/pos: 0.205s
+
+Number of positions in .\STS1-STS15_LAN_v3.epd: 1500
+Max score = 1500 x 10 = 15000
+Test duration: 00h:05m:31s
+Expected time to finish: 00h:05m:52s
+STS rating: 3077
+
+  STS ID   STS1   STS2   STS3   STS4   STS5   STS6   STS7   STS8   STS9  STS10  STS11  STS12  STS13  STS14  STS15    ALL
+  NumPos    100    100    100    100    100    100    100    100    100    100    100    100    100    100    100   1500
+ BestCnt     75     60     67     69     77     64     60     58     52     78     58     61     66     66     45    956
+   Score    820    700    745    807    823    835    698    719    646    833    663    729    774    736    657  11185
+Score(%)   82.0   70.0   74.5   80.7   82.3   83.5   69.8   71.9   64.6   83.3   66.3   72.9   77.4   73.6   65.7   74.6
+  Rating   3408   2874   3074   3350   3421   3475   2865   2958   2633   3466   2709   3003   3203   3034   2682   3077
+
+:: STS ID and Titles ::
+STS 01: Undermining
+STS 02: Open Files and Diagonals
+STS 03: Knight Outposts
+STS 04: Square Vacancy
+STS 05: Bishop vs Knight
+STS 06: Re-Capturing
+STS 07: Offer of Simplification
+STS 08: Advancement of f/g/h Pawns
+STS 09: Advancement of a/b/c Pawns
+STS 10: Simplification
+STS 11: Activity of the King
+STS 12: Center Control
+STS 13: Pawn Play in the Center
+STS 14: Queens and Rooks to the 7th rank
+STS 15: Avoid Pointless Exchange
+
+:: Top 5 STS with high result ::
+1. STS 06, 83.5%, "Re-Capturing"
+2. STS 10, 83.3%, "Simplification"
+3. STS 05, 82.3%, "Bishop vs Knight"
+4. STS 01, 82.0%, "Undermining"
+5. STS 04, 80.7%, "Square Vacancy"
+
+:: Top 5 STS with low result ::
+1. STS 09, 64.6%, "Advancement of a/b/c Pawns"
+2. STS 15, 65.7%, "Avoid Pointless Exchange"
+3. STS 11, 66.3%, "Activity of the King"
+4. STS 07, 69.8%, "Offer of Simplification"
+5. STS 02, 70.0%, "Open Files and Diagonals"
+
